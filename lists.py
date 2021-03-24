@@ -25,3 +25,12 @@ print(thislist[1:2]) #returns banana cherry
 
 #adding items on the list
 thislist.append("orange") #adds orange on the list
+#loping through a list
+#printing allitems in te list one by one
+fruits=["apple","banana","cherry"]
+for x in fruits:
+   print(x)
+  #using the range() and len() functions to create a suitble iteration
+for i in range (len(fruits)):
+   print(fruits[i]
+         
